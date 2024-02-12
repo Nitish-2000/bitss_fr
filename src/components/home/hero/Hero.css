@@ -1,0 +1,37 @@
+.hero{
+    background-image: URL('../../../../asserts/hero/background_image.png');
+    /* margin-top: 60px; */
+    /* margin-top:1px; */
+    height: 100vh;
+    width: 100vw;
+    /* padding-top: 5%; */
+    /* padding-left: 15%;
+    padding-right: 15%; */
+    background-repeat: no-repeat;
+}
+.content{
+    margin-left: 350px;
+    align-items: center;
+    justify-content: center;
+}
+.content h1{
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.content h6{
+    font-size: 10px;
+    font-weight: 100;
+}
+
+.data{
+    /* margin-top: 50px; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+}

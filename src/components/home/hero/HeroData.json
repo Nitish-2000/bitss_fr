@@ -1,0 +1,23 @@
+[
+    {
+        "image":"hero/bitss_cyber_security_image_1_.png",
+        "title":"Website Admin Protection",
+        "line1":"✓ Stop data theft",
+        "line2":"✓ Stop video content theft",
+        "line3":"✓ Stop client theft"
+        
+    },
+    {
+        "image":"hero/bitss_cyber_security_image_3_.png",
+        "title":"Bitss C Anti-Spam Module",
+        "line1":"✓ Stop Spamming",
+        "line2":"✓ Protect Online Revenue",
+        "line3":"✓ Manage Your Client without spamming"    
+    },
+    {
+        "image":"hero/bitss_cyber_security_image_2.png",
+        "title":"Protect Online Assets",
+        "line1":"✓ Protect your online revenue and data assets",
+        "line2":"✓ Protect your client base"
+    }
+]

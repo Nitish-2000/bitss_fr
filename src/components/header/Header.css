@@ -1,0 +1,75 @@
+.header{
+    display: inline;
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    margin-top: 5vh;
+    /* margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 10%;
+    padding-right: 10%; */
+
+    /* padding-left: 10px; */
+    /* padding: 10%; */
+    /* background-color: aqua; */
+}
+
+.image{
+    height:5px;
+    margin-left: 10%;
+}
+
+.menu{
+    display: flex;
+    margin-left: 5%;
+    display: inline;
+}
+
+.menuBtn{
+    display: none;
+    height:40px
+}
+
+.menuItems{
+    display: flex;
+    margin-left: 30px;
+}
+
+.menuItems li{
+    display: inline;
+    display: flex;
+    margin-left: 20px;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: medium;
+    
+}
+
+.menuItems li NavLink{
+    text-decoration: none;
+    
+}
+
+.cart{
+    display: flex;
+    margin-left: 50px;
+}
+
+.cartImg{
+    height:40px
+}
+
+.btn{
+    margin-left: 20px;
+}
+
+/* .line{
+    padding-top: 80px;
+    width:100%;
+    border-bottom: 1px solid rgb(177, 170, 170);
+    position:absolute;
+} */
+.active{
+    color: brown;
+}

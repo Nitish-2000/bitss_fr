@@ -1,9 +1,12 @@
-/* eslint-disable no-unused-vars */
 import React from 'react'
+import Hero from './hero/Hero'
 
 function Home() {
   return (
-    <div>Home</div>
+    <section className='container'>
+        <Hero />
+    </section>
+   
   )
 }
 

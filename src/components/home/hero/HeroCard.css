@@ -1,0 +1,17 @@
+.container{
+display: flex;
+flex-direction: column;
+border-radius: 10px;
+background-color: white;
+padding: 18px 24px;
+/* max-width: 345px; */
+}
+
+.image{
+    height: 200px;
+    width:200px
+}
+
+.title{
+    font
+}
