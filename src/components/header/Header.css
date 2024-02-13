@@ -1,10 +1,11 @@
 .header{
     display: inline;
     display: flex;
-    
+    width:100%;
     align-items: center;
     justify-content: center;
-    margin-top: 5vh;
+    margin-left: 0px;
+    /* margin-top: 5vh; */
     /* margin-left: 20%;
     margin-right: 20%;
     padding-left: 10%;
@@ -14,10 +15,12 @@
     /* padding: 10%; */
     /* background-color: aqua; */
 }
-
-.image{
-    height:5px;
-    margin-left: 10%;
+.headerImg{
+  
+}
+.image1{
+  width: 60px;
+  /* margin-right: 1115px; */
 }
 
 .menu{

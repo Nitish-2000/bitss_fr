@@ -2,7 +2,7 @@
     background-image: URL('../../../../asserts/hero/background_image.png');
     /* margin-top: 60px; */
     /* margin-top:1px; */
-    height: 100vh;
+    /* height: 100vh; */
     width: 100vw;
     /* padding-top: 5%; */
     /* padding-left: 15%;
@@ -10,12 +10,14 @@
     background-repeat: no-repeat;
 }
 .content{
+    padding-top: 45px;
     margin-left: 350px;
     align-items: center;
     justify-content: center;
 }
 .content h1{
     font-size: 30px;
+    font-weight: 600;
     align-items: center;
     justify-content: center;
 }
@@ -23,6 +25,9 @@
 .content h6{
     font-size: 10px;
     font-weight: 100;
+    padding-top: 30px;
+    align-items: center;
+    justify-content: center;
 }
 
 .data{
@@ -32,6 +37,7 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    gap: 20px;
+    gap: 80px;
     width: 100%;
+    padding-top: 50px;
 }

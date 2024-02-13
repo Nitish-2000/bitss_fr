@@ -7,12 +7,12 @@ import { Link, NavLink } from 'react-router-dom';
 
 function Header() {
   return (
-    <>
+   <div className='Container'>
    <div className='header'>
     <div className='headerImg'>
         <img 
-        className='image'
-        src={getImageurl("header/bitss_logo.png")} alt='headerImage' />
+        className='image1'
+        src={getImageurl("header/bitss_icon_1.png")} alt='headerImage' />
     </div>
     <div className='menu'>
         <img 
@@ -59,7 +59,7 @@ function Header() {
     </div>
     <div className = "line"></div>
    </div>
-   </>
+   </div>
   )
 }
 

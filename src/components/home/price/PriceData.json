@@ -1,0 +1,42 @@
+[
+    {
+        "title" : "BITSS WAP",
+        "title2": "Website Admin Panel Protection",
+        "price" : "125 €   Purchase price",
+        "description":"Secure your website, administration site, video content site with Bitss wp and stop data /client theft, stops video",
+        "title3":"What's included:",
+        "line1":"✓ Data theft _ Intrusion",
+        "line2":"✓ Hacking / ransom demands",
+        "line3":"✓ Spamming from website contact page",
+        "line4":"✓ Protect your revenue and data assets",
+        "line5":"✓ Protect your client base from theft"
+    },
+    {
+        "title" : "BITSS-C",
+        "title2": "Standard Contact Form",
+        "price" : "7.50 € Purchase price",
+        "description":"Real-time threat monitoring and advanced filtering to ensure only genuine contact form submissions reaches your inbox",
+        "title3":"What's included:",
+        "line1":"✓ Anti-spam security",
+        "line2":"✓ Real-time threat monitoring",
+        "line3":"✓ Capta to verify real input",
+        "line4":"✓ Bitss C will improve your contact management",
+        "line5":"✓ Remain ahead of the spammers",
+        "line6":"✓ Continue Support, Training, Upgrade"
+    },
+    {
+        "title" : "BITSS-C Preselect Form",
+        "title2": "Standard Contact Form",
+        "price" : "10 € Purchase price",
+        "description":"Free contact form permits selecting your contact input details. And and infuse bitss security payable options",
+        "title3":"What's included:",
+        "line1":"✓ Anti-spam security",
+        "line2":"✓ Real-time threat monitoring",
+        "line3":"✓ Capta to verify real input",
+        "line4":"✓ Bitss C will improve your contact management",
+        "line5":"✓ Remain ahead of the spammers",
+        "line6":"✓ Continue Support, Training, Upgrade"
+    }
+
+
+]

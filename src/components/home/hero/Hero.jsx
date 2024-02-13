@@ -5,6 +5,7 @@ import './Hero.css'
 
 function Hero() {
   return (
+    <div className='Container'>
     <div className='hero'>
       <div className='content'>
         <h1>Bitss.fr  Protect Your Client and Data With Bitss</h1>
@@ -15,6 +16,7 @@ function Hero() {
             return <HeroCard key={id} data={data} />
         })}
       </div>
+    </div>
     </div>
   )
 }
