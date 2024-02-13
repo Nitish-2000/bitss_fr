@@ -6,7 +6,8 @@
     max-width: 250px;
     gap: 10px;
     padding :30px;
-    margin: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
     border-width: 1px;
     border-style: solid;
     background-color: white;

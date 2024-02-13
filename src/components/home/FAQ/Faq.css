@@ -1,0 +1,9 @@
+.long-text{
+    height:0;
+    overflow: hidden;
+}
+
+.expanded{
+    height:10rem;
+    
+}

@@ -1,0 +1,64 @@
+.abtContainer{
+    display: flex;
+    width:100vw;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+    /* padding-right: 500px; */
+    gap:5px;
+    /* margin-top: 20px; */
+}
+.abtContent{
+   margin-left: 100px;
+}
+
+.abtHeading{
+    font-weight: 900;
+    font-size:40px;
+    padding-bottom: 20px;
+    /* background-color: aqua; */
+}
+.abtContent p{
+    font-size: small;
+    line-height: 25px;
+    color:rgba(21, 24, 23, 0.729);
+    padding-bottom: 20px;
+}
+
+.abtmission{
+    display: flex;
+}
+.abtmission img{
+height:45px;
+
+}
+
+.abtMissionContent{
+    padding-left: 20px;
+}
+.abtPlay{
+    /* position: absolute; */
+    margin-right: 200px;
+   
+}
+.abtVideo{
+    border: 1px;
+    border-width: 1px;
+    border-style:solid;
+    height: 300px;
+    border-radius: 25px;
+}
+
+.abtbutton{
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: larger;
+    font-weight: 700;
+    width: 200px;
+    height: 50px;
+    background-color: white;
+}
+
+.abtbutton:hover{
+    background-color: peru;
+}

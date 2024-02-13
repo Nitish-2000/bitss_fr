@@ -1,0 +1,79 @@
+.prContainer{
+    margin-top: 120px;
+    margin-bottom: 100px;
+    width:100vw;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.prtitle{
+    align-items: center;
+    justify-content: center;
+    padding-left: 500px;
+    padding-bottom: 40px;
+}
+
+.prButton{
+    align-items: center;
+    justify-content: center;
+    margin-left: 520px;
+    padding-bottom: 40px;
+    width:300px;
+    height:50px;
+    background-color: white;
+}
+
+.prButtonMan{
+    width: 30px;
+    /* align-content: center; */
+    position: absolute;
+    padding-top: 10px;
+   padding-left: 100px;
+}
+
+.prButton p{
+    padding-top: 15px;
+    font-weight: 600;
+    padding-right:25px
+}
+
+.prButton p:hover{
+    color: blueviolet;
+}
+
+.prcontents{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: gainsboro
+    /* flex-wrap: wrap; */
+}
+
+.prlist{
+    display: flex;
+    padding:30px;
+    /* flex-wrap: wrap; */
+
+}
+
+.primage{
+    padding-right: 10px;
+    width:50px;
+    height:50px
+}
+
+.prcontexttitle{
+   font-size: medium;
+   font-weight: 400;
+   padding-bottom: 15px;
+   /* background-color: aqua; */
+}
+
+.prcontextDescription{
+    font-size: medium;
+    font-weight: 400;
+    color: rgb(90, 86, 86)
+}

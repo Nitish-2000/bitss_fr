@@ -8,6 +8,8 @@
   padding :30px;
   border-width: 1px;
   border-style: solid;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 .pctitle1{
     font-weight: 600;
@@ -40,6 +42,9 @@
    width:150px;
    height: 40px;
    
+}
+.pcbutton:hover{
+background-color: darksalmon;
 }
 .pctitle3{
     color: rgb(73, 71, 71);

@@ -1,8 +1,10 @@
 .Pcontainer{
-    padding: ;-top: 80px;
+    padding-top: 80px;
     align-items: center;
     justify-content: center;
     width:100vw;
+    margin-left: 0px;
+    margin-right: 0px;
     /* background-color: rgba(247, 248, 249, 0.994); */
 }
  .ptitle {
