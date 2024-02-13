@@ -1,0 +1,32 @@
+.Pcontainer{
+    padding: ;-top: 80px;
+    align-items: center;
+    justify-content: center;
+    width:100vw;
+    /* background-color: rgba(247, 248, 249, 0.994); */
+}
+ .ptitle {
+    /* padding-top: 15px; */
+    
+    margin-left: 300px;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .ptitle h2{
+    font-size: 30px;
+    font-weight: 600;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .pcard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    width: 100%;
+    padding-top: 50px;
+ }

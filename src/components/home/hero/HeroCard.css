@@ -4,7 +4,8 @@ flex-direction: column;
 border-radius: 10px;
 background-color: white;
 padding: 18px;
-margin-bottom:40%;
+/* padding-bottom: 300px; */
+/* margin-bottom:40%; */
 max-width: 250px;
 gap: 10px;
 /* max-width: 345px; */
@@ -12,9 +13,11 @@ gap: 10px;
 
 .image{
     height: 300px;
-    /* width:150px */
-   
 }
+.image:hover{
+    transform: scale(1.1);
+}
+
 
 .title{
     font-size: 22px;
@@ -30,3 +33,5 @@ gap: 10px;
     border-radius: 5px;
     background-color: #0082cb;
 }
+
+/* https://www.educative.io/answers/how-to-implement-a-read-more-link-in-react */

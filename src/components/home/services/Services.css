@@ -1,0 +1,50 @@
+.scontainer{
+    width:100vw;
+    align-items: center;
+    justify-content: center;
+    padding-top: 60px;
+    /* position: absolute; */
+   /* background-color: rgb(245, 243, 239); */
+}
+
+.stitle{
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.stext{
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    padding-left: 350px;
+    margin-bottom: 50px;
+    
+}
+
+.stext h3{
+     font-weight: 500;
+     color: rgb(41, 39, 39);
+}
+.vl {
+    border-left: 3px solid rgba(241, 46, 137, 0.995);
+    height: 60px;
+    position: absolute;
+    margin-left: 340px;
+    padding-left: 340px;
+    /* left: 50%; */
+    /* margin-left: -3px; */
+   
+  }
+
+  .scard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+    padding-top: 10px;
+    /* background-color: white; */
+  }
