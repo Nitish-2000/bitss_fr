@@ -8,15 +8,16 @@ import Products from './products/Products'
 import About from './About/About'
 import Faq from './FAQ/Faq'
 import Contact from './contact/Contact'
+import './Home.css';
 function Home() {
   return (
-    <section className='container'>
+    <section className='homecontainer'>
         <Hero />
         <Price />
         <Services />
         <Products />
         <About />
-        {/* <Faq /> */}
+        <Faq />
         <Contact />
     </section>
    

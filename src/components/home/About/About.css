@@ -5,7 +5,7 @@
     margin-right: 0px;
     
     /* padding-right: 500px; */
-    gap:5px;
+    gap:70px;
     /* margin-top: 20px; */
 }
 .abtContent{
@@ -38,20 +38,21 @@ height:45px;
 }
 .abtPlay{
     /* position: absolute; */
-    margin-right: 200px;
+    /* margin-right: 200px; */
    
 }
 .abtVideo{
     border: 1px;
     border-width: 1px;
     border-style:solid;
-    height: 300px;
+    height: 250px;
     border-radius: 25px;
+    margin-right: 50px;
 }
 
 .abtbutton{
     margin-top: 50px;
-    margin-left: 200px;
+    margin-left: 140px;
     font-size: larger;
     font-weight: 700;
     width: 200px;

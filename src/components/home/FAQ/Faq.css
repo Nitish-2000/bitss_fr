@@ -1,9 +1,25 @@
-.long-text{
-    height:0;
-    overflow: hidden;
+.faqContainer{
+    margin-top: 70px;
+    width: 100vw;
+    margin-left: 0;
+    margin-right: 0;
 }
 
-.expanded{
-    height:10rem;
+.faqHeading{
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+    padding-bottom: 20px;
+}
+
+.faqline{
+
+}
+
+.faqCard{
+    margin-left: 60px;
+    margin-right: 60px;
+    align-items: center;
+    justify-content: center;
     
 }
