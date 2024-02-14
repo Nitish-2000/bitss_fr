@@ -26,24 +26,24 @@ function Header() {
                 <Link to="/" className="activeLink">Home</Link>
             </li>
             <li>
-            <NavLink to={"cyber-bitss-security-BITSS"} className="activeLink">
+            <Link to={"product"} className="activeLink">
                 Bitss Cyber security
-            </NavLink>
+            </Link>
             </li>
             <li>
-            <NavLink to={"free-products"} className="activeLink">
+            <Link to={"free-products"} className="activeLink">
                Free Products
-            </NavLink>
+            </Link>
             </li>
             <li>
-            <NavLink to={"about-us"} className="activeLink">
+            <Link to={"about-us"} className="activeLink">
                 About Us
-            </NavLink>
+            </Link>
             </li>
             <li>
-            <NavLink to={"contact-us"} className="activeLink">
+            <Link to={"contact-us"} className="activeLink">
                Contact Us
-            </NavLink>
+            </Link>
             </li>
         </ul>
     </div>

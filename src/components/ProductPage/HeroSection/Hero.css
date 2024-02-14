@@ -1,0 +1,141 @@
+.prHeroContainer{
+    margin-top: 60px;
+    padding-top: 40px;
+    justify-content: center;
+    align-items: center;
+    background-color: #D5F3FE;
+}
+
+.prHeroContainerh{
+   text-align: center;
+    justify-content: center;
+    /* padding-left: 150px; */
+    padding-bottom: 30px;
+    font-size:30px;
+    font-family: "Fjalla One", Sans-serif;
+    font-weight: 500;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
+}
+.prHeroContainer p{
+    color: #343232;
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: center;
+}
+
+.prHeroCard{
+    display: flex;
+}
+
+.prHeroBtn{
+    display: flex;
+    flex-direction: column;
+}
+
+.card-left{
+    margin-top: 50px;
+    margin-left: 150px;
+    padding-right: 50px;
+}
+
+.card-left img{
+    width: 90px;
+}
+
+.card-left p{
+    padding-top: 10px;
+    text-align: left;
+    line-height: 19px;
+    padding-bottom: 10px;
+   
+
+}
+
+.prHerolist{
+    padding-left: 10px;
+
+}
+
+.prHerolist li{
+   line-height: 30px;
+}
+
+.card-right{
+    margin-top: 30px;
+    padding: 50px;
+    text-align: left;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 15px;
+
+}
+
+.card-right h1{
+    text-align: left;
+    font-size: 30px;
+    font-weight: 500;
+    padding-bottom: 15px;
+}
+
+.card-right h2{
+    color: #343232;
+    padding-bottom: 10px;
+}
+.card-right p{
+    text-align: left;
+    line-height: 35px;
+    /* padding-bottom: 20px; */
+}
+
+.prherop h1{
+    display: inline;
+    font-weight: 600;
+    color: #000;
+}
+
+.card-right span{
+   color: #343232;
+   /* padding-bottom: 15px; */
+}
+
+
+
+.card-right h3{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.prHeroCartBtn{
+    margin: 20px;
+    width: 110px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    color: white;
+    background-color: blueviolet;
+    margin-left: 230px;
+    margin-bottom: 30px;
+}
+
+.prHeroCartBtn:hover{
+    background-color: white;
+    color: #000;
+    
+}
+
+.prHeroUserBtn{
+   width: 400px;
+   height: 50px;
+   margin-left: 100px;
+   font-size: 20px;
+   color: #343232;
+   font-weight: 600;
+}
+
+.prHeroUserBtn:hover{
+    background-color: darkgray;
+}
