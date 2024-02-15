@@ -31,5 +31,6 @@
 
 .scRead:hover{
     color: rgb(191, 46, 66);
+    cursor: pointer;
 }
 

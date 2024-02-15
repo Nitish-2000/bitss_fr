@@ -45,6 +45,7 @@
 }
 .pcbutton:hover{
 background-color: darksalmon;
+cursor: pointer;
 }
 .pctitle3{
     color: rgb(73, 71, 71);

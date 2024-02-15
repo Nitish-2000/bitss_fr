@@ -36,4 +36,9 @@ margin-right: 0px;
     background-color: #0082cb;
 }
 
+.button:hover{
+cursor: pointer;
+}
+
+
 /* https://www.educative.io/answers/how-to-implement-a-read-more-link-in-react */

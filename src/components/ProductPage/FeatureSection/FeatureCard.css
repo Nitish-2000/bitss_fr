@@ -1,9 +1,14 @@
-.FtrCardContainer{
+.Container{
    
 }
 
 .FtrHead{
-       
+      display: flex; 
+      margin: 20px;
+      padding-left: 100px;
+      padding-right: 100px;
+      padding-bottom: 50px;
+      
 }
 
 .FtrCardTitle{
@@ -15,14 +20,27 @@
     color: blueviolet ;
 }
 
-.FtrCardBtn{
-    width: 50px;
-    height: 35px;
+.FrtcardBtn{
+    position:absolute;
+    padding-left:900px;
    
 }
+
+.FrtcardBtn button{
+    width:30px;
+    height:25px
+}
+.FrtcardBtn button:hover{
+    cursor: pointer;
+}
+
 
 .FtrCardContent{
     padding-top: 20px;
     padding-bottom: 10px;
     line-height: 30px;
+}
+
+.FtrCardContent{
+    margin-left: 100px;
 }

@@ -1,0 +1,23 @@
+.productFaqHead{
+    display: flex;
+    margin: 25px;
+    border: 1px;
+}
+
+.FtrCardBtn1{
+    
+    position:absolute;
+    padding-left:850px;
+} 
+.FtrCardBtn1 button{
+    width:30px;
+    height:25px
+}
+
+.FtrCardContent{
+    padding-left: 30px;
+}
+
+.FtrCardBtn1 button:hover{
+cursor: pointer;
+}

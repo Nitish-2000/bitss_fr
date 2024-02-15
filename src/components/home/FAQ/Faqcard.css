@@ -37,6 +37,11 @@
    /* position: absolute; */
 }
 
+.faqArrow:hover{
+cursor: pointer;
+}
+
+
 .faqCardDesc{
     padding-top: 20px;
     line-height: 30px;
